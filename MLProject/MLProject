@@ -1,7 +1,0 @@
-name: mlflow-ci-project
-
-conda_env: conda.yml
-
-entry_points:
-  main:
-    command: "python train.py"
